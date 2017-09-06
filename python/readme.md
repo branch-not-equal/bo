@@ -1,13 +1,15 @@
 # Bayesian Optimization python code example
 
-requirements
+## requirements
 - Python 2.7(Tested under Python 2.7.13)
-- matplotlib
-- sklearn
+- matplotlib-2.0.2
+- sklearn-0.18.1
 - imagemagick for gif creation.
 
-usage
+## usage
 $ python bo.py
-images    -> ./fig/**.png
-gif image -> ./bo.gif
+
+## output
+- images: ./fig/**.png
+- gif image: ./bo.gif
 
